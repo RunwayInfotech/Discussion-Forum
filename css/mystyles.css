@@ -1,0 +1,172 @@
+body{font-size:16px; font-family:Arial;}
+#template{background: none repeat scroll 0 0 #FAF5EF; margin: 0;padding:0; width:99%;height:100%;}
+a:link {text-decoration:none;}
+ .headcontent{color:#FAF605;height:auto;width:auto;margin-right: 161px;float: right; }
+.headcontent a
+	{
+		color: #FFFFFF;
+		
+		font-size: 18px;
+		font-weight: bold;
+		
+	}
+.headcontent li{display:inline;padding:0 7px 0 6px;}
+.quote { background:url(../image/appreciation_quotes.jpg) no-repeat;height:346px;width:610px;}
+.quote p{padding:101px;font-size: 25px;}
+.container
+{
+ background: #ffffff;
+    margin: auto;
+  min-height:786px;
+	 /*height:auto;*/
+    width: 85%;
+ }
+.innermain { height:auto ; margin: 0 auto; width: 632px; }
+.thought{width:610px;height:auto;}
+.event{/* background:url(../image/blue_left_box1.png) no-repeat;height:auto;*/ margin-left:60px;width:450px; padding: 27px;}
+//.next{width:52px;height:50px;float:right;}
+#present{float: right;
+    height: auto;
+    margin-right: 17px;
+    width: 113px;}
+
+#header
+{
+   border: 2px solid #bdb4b4;
+   color: #808080;
+    height: 146px;
+    margin: auto;
+	 width: 65%;
+    /*position: relative;*/
+   
+	/*color: #808080;
+    height: 146px;
+    margin: auto;
+    position: fixed;
+    width: 65%;*/
+ }
+ .inhead
+ {
+   background-color:#00006E;   
+    color: #FDFAFA;
+    height: 48px;
+    width: 100%;
+    position: fixed;	
+ }
+
+
+ .img1
+ {
+ /*background:url(../images/logo.png) no-repeat;*/
+	float: left;
+    height: 138px;
+    /*margin-left: 117px;*/
+    margin-top: 4px;
+	position:fixed;
+  }
+#footer
+	{
+	    background-color: #E1DDDD;
+		border: 2px solid #bdb4b4;
+		float:left;
+        width:  100%;
+		 text-align: center;
+		color:#736565;
+		position:static;
+		
+	}
+  .img2
+	 {
+		  height:300px;
+		  width:920px;
+		  margin-top:10px;
+		  margin-bottom:10px;
+		  margin-right:10px;
+		  margin-left:10px;
+	  }
+.main
+	{ 
+	font-size:15px;
+	float:right;
+	margin-right:17px;
+	}
+#size
+{
+height:auto;
+}
+ .ab{text-align:center;}
+ .form_tab{ width:348px; height:auto; border:1px solid #DFC0E2; box-shadow:5px 5px 5px 5px #888888; padding:35px;margin-left:30px; margin-top:20px;}
+ 
+ .inputbox{ font-weight: normal;
+    color: #222; border:3px solid  #F88282;}
+
+	.feed{
+ height: 161px;
+    overflow: hidden;
+    position: fixed;
+    right: -9.6px;
+    top: 168px;
+    width: 57px;
+    z-index: 99990;
+ } 
+      
+ .slide-out-div {
+          padding: 20px;
+          width: 250px;
+          background: #ccc;
+          border: 1px solid #29216d;
+      }      
+.content {
+	border-bottom: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    float: left;
+    margin-top: 2px;
+   // min-height: 200px;
+    overflow: auto;
+    padding: 10px 8px 10px 10px;
+    width: 98%;
+}   
+ .list {
+    border-collapse: collapse;
+    border-left: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.list .left {
+    padding: 7px;
+    text-align: left;
+}
+.list thead td a, .list thead td {
+    color: #222222;
+    font-weight: bold;
+    text-decoration: none;
+}
+.list thead td {
+    background-color: #EFEFEF;
+    padding: 0 5px;
+}
+.list td {
+    border-bottom: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.box {
+    margin-bottom: 15px;
+	margin-top:43px;
+}
+.box > .heading {
+    background: url("../image/box.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #DBDBDB;
+    border-radius: 7px 7px 0 0;
+    height: 38px;
+    padding-right: 8px;
+}
+.box > .heading h1 
+{
+    color: #003A88;
+    float: left;
+    font-size: 16px;
+    margin: 0;
+    padding: 11px 0 0;
+}

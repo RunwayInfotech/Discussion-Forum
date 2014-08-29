@@ -1,0 +1,166 @@
+body{font-size:16px; font-family:Arial;}
+.container
+{
+
+ width:100%;
+ background:#faf5ef;
+ }
+.Innermain { width: 981px; margin: 0 auto; background:#ffffff;}
+#header
+{
+  height:170px;
+  width:960px;
+  background-color:#808080;
+  padding: 0 10px;
+
+ }
+ .img1
+ {
+ /*background:url(../images/logo.png) no-repeat;*/
+  height:138px;
+  width:150px;
+  float:left;
+  margin-top:5px;
+  }
+ ul.url 
+ {
+/* float:left;*/
+
+}
+ul.url li
+ {
+ display:inline;
+/* float:left;*/
+ margin:0 5px;
+}
+ 
+#footer
+	{
+	background-color: #E1DDDD;
+		height: 53px;
+		margin-bottom: 8px;
+		margin-left: 20px;
+		margin-top: 20px;
+        width: 942px;
+	  }
+  .img2
+	 {
+		  height:300px;
+		  width:920px;
+		  margin-top:10px;
+		  margin-bottom:10px;
+		  margin-right:10px;
+		  margin-left:10px;
+	  }
+  .capt
+	  {
+		  text-align:center;
+		  text-transform: uppercase;
+	  }
+  .middle
+	  {
+		  text-align:center;
+		  height:auto;
+		  width:939px;
+		  margin-top:10px;
+		  margin-bottom:10px;
+		  margin-right:10px;
+		  margin-left:10px;
+	  }
+  .cont .abc
+	{
+		margin-top:40px;
+		margin-left:10px;  
+	}
+ .cont
+		 {
+			text-align:center; 
+			width:774px;
+			height:400px;
+		}
+.up
+	{
+		text-align:left;	
+	}
+.size
+	{
+	 margin-top:20px;
+	}
+.main
+	{ 
+	font-size:15px;
+	float:right;
+	margin-right:17px;
+	}
+.img3
+	{
+	    height:200px;
+		  width:757px;
+		  margin-top:10px;
+		  margin-bottom:10px;
+		  margin-right:10px;
+		  margin-left:10px
+		  
+	}
+	.manage
+	{
+	margin-left:25px;
+	width:153px;
+	height:auto;
+	float:right
+	}	
+#size
+{
+height:auto;
+}
+ .ab{text-align:center;}
+.back
+{
+  height:400px;
+  margin-left: 15px;
+    width: 930px;
+}
+.error
+     {
+         height: 60px;
+    margin-left: 369px;
+    text-align: center;
+    width: 235px;
+	 background-color: #FFDEAD;
+   }
+  .img3
+  {
+		  height:317px;
+		  margin-left: 5px;
+			width: 610px;
+} 
+   .latest_article
+   {
+		  width:300px;
+		  height:auto;
+		  float:right;
+		  color:#827839;
+  }
+  .banner
+  {
+  width:620px;
+  height:auto;
+  }
+  .user
+   {
+    background:url(../image/pitch.jpg) no-repeat;height: 290px;
+    margin-left: 16px; 
+ }
+ .password
+ {
+   margin-bottom:10px;
+ }
+.leftspace 
+ {margin-left: 42px;
+    width: 97px;}
+	
+.design{text-align:center;margin-top: 20px;}
+.newacnt{width:200px; float:left; height:100px; background-color:#f0f0f0; margin-left:298px;}
+.leftblock {width:200px; height:420px; border: 1px solid; float:right; background:url(../image/depositphotos_1629347-Water-stocks-on-the-earth.-3D-image..jpg) no-repeat;}
+ .banners{float:left;}
+ 

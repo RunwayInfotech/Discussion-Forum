@@ -1,0 +1,63 @@
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="../js/validate.js" charset="utf-8"></script>
+	<link rel="stylesheet" href="styleabc.css" type="text/css" media="screen" />
+		<style type="text/css">
+		label{width:100px;float:left; margin-top:4px;}
+		.main{width:658px; height:auto; margin:auto;}
+		.input_box{margin-bottom:10px; width:434px;}
+		.form_tab{ border:1px solid #DFC0E2; box-shadow:5px 5px 5px 5px #888888; padding:35px;}
+		.upload{width:264px;}
+		</style>
+			<!--<form action="#" method="post" enctype="multipart/form-data" id="jform"  class="form_tab" >-->
+			<form id="jform" action="../index.php/userupdate/register" method="post" >
+				<h1>Details:</h1>
+				
+				<fieldset>
+				<legend>Personal Details</legend>
+					<div class="input_box">
+								<label>Date Of Joining:</label> 
+								<input id="doj" size="45px" type="text" class="static" name="doj"  />
+							</div>					
+							<div class="input_box">
+								<label>First Name:</label> 
+								<input id="fname" size="45px" type="text" class="static" name="fname"/>
+							</div>
+							<div class="input_box">
+								<label>Last Name:</label>
+								<input id="lname" size="45px" type="text" name="lname" /> 
+							</div>
+							<div class="input_box">
+								<label>E-Mail:</label>
+								<input id="email"  size="45px" type="text" class="static" name="email"  />
+							</div>	
+							<div class="input_box">
+								<label>Other E-Mail:</label>
+								<input id="other_mail"  size="45px" type="text" name="other_mail"  />
+							</div>	
+							<div class="input_box">
+								<label>Address:</label>
+								<input id="address" size="45px" type="text" name="address"/>
+							</div>
+							<div class="input_box">
+								<label>Phone NO:</label>
+								<input id="phone" size="45px" type="text" class="static" name="phone"  />
+							</div>
+							<div class="input_box">
+								<label>Reference No:</label>
+								<input id="ref"  size="45px" type="text" name="ref"/>
+							</div>	
+							<div class="input_box">
+								<label>Date Of Birth:</label>
+								<input id="dob"  size="45px" type="text" class="static" name="dob" />
+							</div>	
+							<div class="input_box">
+								<label>PAN Card No:</label>
+								<input id="pan"  size="45px" type="text" class="static" name="pan"  />
+							</div>
+							<div class="input_box">
+								<label>Device Issued</label>
+								<input id="device"  size="45px" type="text" class="static" name="device" /> 
+							</div>
+				</fieldset> 	
+				 <input type="submit" name="Submit" value="submit" id="submit"/>				  
+			</form>

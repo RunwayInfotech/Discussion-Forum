@@ -1,0 +1,280 @@
+@charset "utf-8";
+/* CSS Document */
+
+.askquestion {
+	font-size:24px;
+	font-family:Tahoma, Geneva, sans-serif;
+	background-color:#999;
+	float:right;
+	margin-top:80px;
+	margin-right:40px;
+	padding:10px;	
+	color:#000;
+}
+.forumcat1,.forumcat2 ,.forumcat3 {
+	font-size:26px;
+	font-family:Tahoma, Geneva, sans-serif;
+	float:left;
+	width:280px;
+}
+.forumcat1{
+
+}
+.forumcat2 {
+		
+}
+.forumcat3 {
+	
+}
+.discussheader {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:32px;
+	margin-bottom:40px;
+	padding-bottom:10px;
+	border-bottom-width:2px;
+	border-bottom-color:#000;
+	border-bottom-style:ridge;
+	background-color:#6C9;
+}
+.mainsection {
+	margin-top:30px;	 
+}
+.topic {
+	/* background-color:#3F9; */
+	height:40px;
+}
+.questions {
+	margin-top:50px;
+	height:700px;
+	/*margin-bottom:50px; */
+}
+.block {
+	width:880px;
+	height:40px;
+}
+.query {
+	font-size:20px;
+	font-family:Tahoma, Geneva, sans-serif;	
+	/*float:left;*/
+}
+a.query {
+	font-size:20px;
+	font-family:Tahoma, Geneva, sans-serif;	
+	display: block;
+	/*float:left;*/
+}
+.t0 {
+	width:40px;
+	float:left;
+	background-color:#CCC;
+}
+.t1 {
+	width:660px;
+	float:left;
+	background-color:#999;
+}
+.t2 {
+	width:120px;
+	float:left;
+	background-color:#CCC;
+}
+.t3 {
+	width:50px;
+	float:left;
+	background-color:#999;
+}
+.ques_topic {
+    width:100%;
+	border-bottom-width:thick;
+	border-bottom-style:ridge;
+	alignment-adjust:central;
+}
+.topic_font  {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:26px;
+	padding-top:10px;
+	margin-bottom:10px;
+	text-align:left;
+	padding-left:10px;
+}
+.ques_detail {
+    width:98%;
+	height:auto;
+	padding:10px;
+	/*background-color:#CCC; */
+}
+.ques_detail p {
+    white-space-collapse:discard;
+}
+.detail_font {
+	font-size:16px;
+	font-family:Tahoma, Geneva, sans-serif;
+	word-spacing:2px;
+	letter-spacing:1px;
+	line-height:18px;
+	text-align:left;
+	float:left;	
+}
+
+pre {
+	font-size:16px;
+	font-family:Tahoma, Geneva, sans-serif;
+	word-spacing:2px;
+	letter-spacing:1px;
+	line-height:18px;
+	text-align:left;
+	white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+    white-space: -pre-wrap; /* Opera */
+    white-space: -o-pre-wrap; /* Opera */
+    white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) */
+	word-wrap: break-word; /* IE 5.5+ */
+}
+.emp_detail {
+}
+.emp1 {
+	/*margin:5px;
+	margin-right:43px; 	 */		
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	float:left;
+	margin-left:200px;
+}
+.emp2 {	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	float:left;
+	margin-left:20px;
+}
+.emp3 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	float:left;
+}
+.emp4 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	float:left;
+	width:160px;
+	margin-top:12px;
+	font-weight:normal;
+    border:1px solid #666;
+	box-shadow:#000 0px 0px 1px;
+	border-radius:2px;
+	border-bottom-right-radius:10px;
+	border-top-right-radius:10px;
+}
+.emp13 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	float:left;
+	margin-left:15px;
+}
+.emp14 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	width:120px;
+	float:left;
+	margin-left:10px;
+	margin-top:4px;
+}
+#likeform {
+	float:left;
+	width:80px;
+	margin-left:10px;
+}
+.emp122 {
+font-family:Tahoma, Geneva, sans-serif;
+font-size:15px;
+float:left;	
+padding-left:8px;
+margin-top:12px;
+}
+#submitsolved {
+	width:90px;
+	background-color: #999;
+}
+::-webkit-input-placeholder {
+   color: #666;	
+}
+#textarea {
+	font-size:14px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#000;
+	border-color:#CCC;
+}
+input[type="submit"] {
+	width:70px;
+	margin-right:720px;
+	font-size:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#000;
+}
+.ans_head {
+	width:98%;
+	border-bottom-width:thick;
+	border-bottom-style:ridge;
+	margin-left:5px;	
+	margin-bottom:25px;
+}
+.ans_each {
+	width:100%;
+	border-bottom-width:thick;
+	border-bottom-style:ridge;
+	margin-bottom:30px;
+}
+.ans_head_font {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:26px;
+	padding-right:650px;
+	padding-top:10px;
+	margin-bottom:10px;
+	
+}
+.div_answer_main {
+	padding:15px;
+	padding-top:10px;
+}
+.ans_detail {
+	height:auto;
+	width:95%;
+	margin-left:35px;
+	border-bottom-width:thick;
+	border-bottom-style:ridge;
+    padding-bottom:20px;
+}
+.no_of_ans {
+	width:100%;
+	border-bottom-width:thick;
+	border-bottom-style:ridge;
+	margin-bottom:30px;
+	margin-top:30px;
+}
+.ans_font {
+	font-size:26px;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-right:700px;
+	margin-bottom:15px;
+}
+.emp_detail2 {
+	padding-bottom:35px;
+	margin-top:15px;
+}
+.emp12 {
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+float:right;
+padding-right:20px;
+}
+.emp22 {
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+float:right;
+padding-right:50px;
+}
+.numbering {
+	font-size:24px;
+	float:left;
+	width:3%;
+	margin-top:10px;
+}
+

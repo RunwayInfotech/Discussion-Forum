@@ -1,0 +1,11 @@
+.feed
+{
+ overflow: hidden; 
+ width: 57px; 
+ left: -19.6px; 
+ top: 168px; 
+ height: 161px; 
+ z-index: 99990;
+ position: absolute;
+ position: fixed;
+ }
